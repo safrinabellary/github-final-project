@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert 71d5687 [origin/bug-fix-revert] Fix typo in README
+  bug-fix-typo   71d5687 Fix typo in README
+  main           71d5687 [origin/main] Fix typo in README
