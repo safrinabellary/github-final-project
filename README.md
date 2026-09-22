@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+
+This repository contains scripts for simple and compound interest calculations.
