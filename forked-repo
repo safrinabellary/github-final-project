@@ -1,0 +1,8 @@
+curl.exe https://api.github.com/repos/safrinabellary/github-final-project
+
+"full_name": "safrinabellary/github-final-project",
+"fork": true,
+"parent": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
